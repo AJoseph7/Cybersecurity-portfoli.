@@ -50,6 +50,6 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anttoni%20Mascarenhas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/antoni-mascarenhas-8b6281120/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoni%20Mascarenhas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/antoni-mascarenhas-8b6281120/)
 
 *Portfolio actively updated as new labs are completed.*
