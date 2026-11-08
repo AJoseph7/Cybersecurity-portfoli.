@@ -70,7 +70,7 @@ targeting the account "vboxuser" over approximately 59 minutes.
 Multiple Wazuh rules were triggered, escalating from individual failures 
 (Rule 5760, Level 5) to repeated pattern detection (Rule 2502, Level 10).
 
-**Authentication success: 9** — investigated and confirmed as legitimate 
+**Authentication success: 9**  investigated and confirmed as legitimate 
 logins performed manually during the lab session (sudo commands, terminal 
 access). Hydra did not successfully authenticate — "vboxuser" password 
 was not present in the rockyou.txt wordlist.
