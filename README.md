@@ -10,7 +10,7 @@
 
 | Project | Description | MITRE | Status |
 |---|---|---|---|
-| [SSH Brute Force Detection with Wazuh](./SSH%20Brute%20Force%20Detection%20with%20Wazuh.md) | Hydra brute force attack detected via Wazuh Rules 5760/5758 | T1110 | ✅ Complete |
+| [SSH Brute Force Detection with Wazuh](./SSH%20Brute%20Force.md) | Hydra brute force attack detected via Wazuh Rules 5760/5758 | T1110 | ✅ Complete |
 | [Account Lockout Detection with Wazuh](./Account%20Lockout%20Detection%20with%20Wazuh.md) | AD lockout detection via Event ID 4740 and Wazuh Rule 60115 | T1110.001 | ✅ Complete |
 | [Linux Privilege Escalation Detection](./Linux%20Privilege%20Escalation.md) | sudoers misconfiguration detected via auditd and Wazuh Rule 5402 | T1548.003 | ✅ Complete |
 | Wireshark Traffic Analysis | Network forensics — protocol analysis and anomaly detection | T1040 | 📋 Coming Soon |
